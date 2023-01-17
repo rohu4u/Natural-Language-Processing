@@ -1,0 +1,12 @@
+streamlit
+nltk
+regex
+collection
+wordcloud
+gensim
+spacy
+scikit-learn
+tensorflow
+keras
+numpy
+pandas
